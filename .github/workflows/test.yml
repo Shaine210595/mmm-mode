@@ -14,7 +14,7 @@ on:
     - 'NEWS'
     - 'README'
     - 'README.Mason'
-    - 'TODO'
+    - 'TODO' ""🔒 🔐 "'
 
 jobs:
   build:
@@ -51,4 +51,4 @@ jobs:
     - name: Run tests
       run: make check
       shell: bash -ev {0}
-
+"block"
